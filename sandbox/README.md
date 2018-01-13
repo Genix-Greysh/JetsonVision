@@ -2,5 +2,5 @@
 
 ## Tutorials and experiments ##
 
-* [Root](/)
+* [Root](https://github.com/frazentropy/JetsonVision)
   * [Sandbox](/sandbox) Tutorials and experiments <--
